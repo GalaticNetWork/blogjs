@@ -52,6 +52,26 @@ Actualizamos el script para manejar las nuevas funcionalidades: añadir enlaces,
    Con estos cambios, tendrás un blog más interactivo y organizado, permitiendo a los usuarios buscar entradas y navegar por hashtags.
 
 
+Para asegurarte de que el footer se distinga claramente de las entradas del blog, puedes ajustar el estilo del footer para hacerlo más prominente y visualmente separado del contenido principal. Aquí tienes algunas mejoras en el CSS:
+
+Explicación de los Cambios
+1.footer:
+ * Cambié el fondo a un color más oscuro (#222).
+ * Aumenté el padding para hacerlo más alto y más prominente.
+ * Añadí un borde superior (border-top: 4px solid #0073e6) para separarlo visualmente del contenido principal.
+2. footer p
+   * Ajusté el margin a 0 para asegurar que el texto esté bien centrado verticalmente
+   * Cambié el tamaño de la fuente a 1rem para asegurarse de que sea legible.
+
+ Estos cambios harán que el footer se distinga claramente del resto del contenido del blog, proporcionando una separación visual más efectiva.
+
+
+
+
+
+
+    
+
 
 
 
