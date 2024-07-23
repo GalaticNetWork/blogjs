@@ -4,13 +4,15 @@
         "description": "Una descripción detallada sobre mi último proyecto en IA.",
         "hashtags": ["#IA", "#MachineLearning", "#Tecnología"],
         "image": "ia-project.jpg",
-        "author": "Dr. Loco"
+        "author": "Dr. Loco",
+        "link": "ia-project.html"
     },
     {
         "title": "Desarrollo de Software Open Source",
         "description": "Explorando las ventajas y desafíos del software de código abierto.",
         "hashtags": ["#OpenSource", "#Software", "#CódigoAbierto"],
         "image": "open-source.jpg",
-        "author": "Dr. Loco"
+        "author": "Dr. Loco",
+        "link": "open-source.html"
     }
 ]
